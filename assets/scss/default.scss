@@ -390,7 +390,6 @@ body.navstandard .offcanvas {
 	display: flex;
 	align-items: center;
 	align-content: center;
-	border-bottom:2px solid $cStroke;
 	background: $bg;
 	@media #{$bd} {
 		padding: $sp1/2.5 0;
@@ -831,7 +830,7 @@ a:hover > .mask {
 .glide,
 .cover-image,
 .cover-video {
-	max-height: 1000px;
+	max-height: 600px;
 	img {
 		width: 100% !important;
 		margin: 0;
@@ -848,7 +847,6 @@ a:hover > .mask {
 		margin: 0 0 $sp1/2;
 		z-index:-2;
 		position:relative;
-		border-bottom: 2px solid $c3;
 		&::before {
 		    content: "";
 		    display: block;
@@ -859,6 +857,7 @@ a:hover > .mask {
 		    left: 0;
 		    right: 0;
 		    background: $bgScreen;
+		    background-image:linear-gradient(0deg, $bgTransparent, $bgScreen);
 	    }
 	}
 }
