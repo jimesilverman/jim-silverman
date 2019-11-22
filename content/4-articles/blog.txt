@@ -1,0 +1,41 @@
+Title: Articles
+
+----
+
+Text: 
+
+----
+
+Intro: Along with my design work, I try to keep note of things I learn along the way and share them with the world. Below are a few examples of my past writings.
+
+----
+
+Titlealternative: 
+
+----
+
+Toggletitle: 0
+
+----
+
+Togglesubnav: 0
+
+----
+
+Covermedia: cimage
+
+----
+
+Slidersize: fullwidth
+
+----
+
+Covervideo: 
+
+----
+
+Coverimage: 
+
+----
+
+Sliderimages: 

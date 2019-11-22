@@ -1,0 +1,90 @@
+Headlinesettings: 
+
+----
+
+Title: Choice is not the Problem
+
+----
+
+Titlealternative: 
+
+----
+
+Toggletitle: 0
+
+----
+
+Togglesubnav: 0
+
+----
+
+Date: 2012-12-12
+
+----
+
+Tags: Design Thoughts
+
+----
+
+Mask: light
+
+----
+
+Headlineslider: 
+
+----
+
+Covermedia: cimage
+
+----
+
+Slidersize: fullwidth
+
+----
+
+Covervideo: 
+
+----
+
+Coverimage: cover-cheese.jpg
+
+----
+
+Sliderimages: 
+
+----
+
+Headlinecontent: 
+
+----
+
+Intro: We must work to provide customers with the necessary information and context to guide them toward their goals.
+
+----
+
+Text: 
+
+Yesterday I stumbled upon a great article by (link: https://medium.com/@JoelleSteiniger text: Joelle Steiniger) entitled (link: https://medium.com/this-happened-to-me/d42e91103b2a text: “‘More’ is a four letter word.”) In the post, she details an all-too-common scenario in which she is looking for a simple item in a supermarket, in this case cheese, and is met with an overwhelming amount of options. The situation is overwhelming to all but the most decisive cheese connoisseurs.
+
+The amount of options is labelled the culprit. Uncertainty and second guessing about the choice has led the customer to make compromises and trade-offs that ultimately lead to walking away unsatisfied. A conclusion is then drawn that “The more options we have, the less satisfied we are with what we ultimately pick.”
+
+This is a familiar mindset in the design community — reduce choices to increase customer satisfaction. But it just doesn’t sit well me.
+
+That conclusion got me thinking deeper about choice overload. Choice is not the problem. Actually, the cheese metaphor seems illustrative of two completely different problems:
+
+1. Lack of intent
+2. Lack of information
+
+(image: choice1.jpg)
+
+In the example, the consumer had no needs or wants in mind when approaching the cheese; she was simply browsing. Had she come to the counter with the intent on finding a sandwich cheese, she would have gotten the Gouda and been done with it.
+
+A clear goal goes a long way in simplifying the choice. By having a goal in mind, the customer effectively eliminates many options from the choice and can build confidence in their remaining options. If a customer is looking for a cheese to spread on crackers, they aren’t going to consider Swiss. The power to reduce the options is left in the customer’s hands.
+
+Further, there was a lack of information surrounding the choice of cheese. Information is required to not only differentiate the options, but it also enables the customer to rationalize and feel confident in their choice. Some supermarkets have actually begun doing this. Meijer for example has brief descriptions of its fruit above each container. You’re making a pie? “Rome Apples — Good for baking.” Boom. Decision made.
+
+Educating the consumer about their options, rather than limiting them, serves multiple purposes. Aside from guiding them toward a choice in this instance, it also makes future choices more efficient. The customer is left feeling empowered and more confident.
+
+The reason options are offered is because nothing offered can fully match a customer’s needs. It's inevitable that as a business grows its offerings must also grow. The reduction of choice would reduce the business’s audience and would not increase customer satisfaction. In fact, this leads to an even harder compromise. The customer either accepts whatever is offered (“ugh, this is all they had”) or seeks alternatives elsewhere (“maybe this other store has something better”).
+
+As experience designers, providing the consumer with options is not the problem. We must work to provide customers with the necessary information and context to guide them toward their goals. **Empower your customers, do not limit them.**

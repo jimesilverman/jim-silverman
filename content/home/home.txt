@@ -1,0 +1,48 @@
+Title: Home
+
+----
+
+Intro: 
+
+# Hi, I'm Jim Silverman. 
+# I make chaotic interfaces simple.
+
+(hr: t4)
+
+(link: /contact text: Get in touch class: btn) <em style="position: relative; top: -19px;"> or </em> (link: /projects text: <i class="fa fa-arrow-right"></i> Check out my work class: btn btn-icon-o al)
+
+----
+
+Text: 
+
+----
+
+Titlealternative: Jim Silverman - Digital Product Design
+
+----
+
+Toggletitle: 1
+
+----
+
+Togglesubnav: 0
+
+----
+
+Covermedia: cimage
+
+----
+
+Slidersize: fullwidth
+
+----
+
+Covervideo: 
+
+----
+
+Coverimage: 
+
+----
+
+Sliderimages: 

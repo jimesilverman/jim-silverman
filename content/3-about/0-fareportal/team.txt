@@ -1,0 +1,21 @@
+Logo: fareportal.png
+
+----
+
+Title: Fareportal
+
+----
+
+Position: Design Team Lead
+
+----
+
+About: At Fareportal, parent company of CheapOair and OneTravel, I led a team responsible for the design and implementation of the multiple booking products. I also performed tests to optimize conversion rates of the flight booking funnel.
+
+----
+
+Date: 2013-03-05
+
+----
+
+Dateend: 2015-11-10

@@ -1,0 +1,21 @@
+Logo: opencrowd.png
+
+----
+
+Title: OpenCrowd
+
+----
+
+Position: User Interface Designer
+
+----
+
+About: At OpenCrowd, I worked directly with stakeholders and users to iteratively create high-fidelity wireframes and prototypes of collaborative web applications for large enterprise clients in the IT and financial industries.
+
+----
+
+Date: 2009-11-10
+
+----
+
+Dateend: 2011-07-09

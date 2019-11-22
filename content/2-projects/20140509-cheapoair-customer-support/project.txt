@@ -1,0 +1,156 @@
+Headlinesettings: 
+
+----
+
+Title: CheapOair Customer Support
+
+----
+
+Titlealternative: 
+
+----
+
+Toggletitle: 0
+
+----
+
+Togglesubnav: 0
+
+----
+
+Date: 2014-05-09
+
+----
+
+Tags: Case Studies
+
+----
+
+Mask: dark
+
+----
+
+Headlineslider: 
+
+----
+
+Covermedia: cimage
+
+----
+
+Slidersize: fullwidth
+
+----
+
+Covervideo: 
+
+----
+
+Coverimage: coasupport-splash.png
+
+----
+
+Sliderimages: 
+
+----
+
+Headlinecontent: 
+
+----
+
+Intro: With a company-wide emphasis on its helpful call center, a self-service support center with automated tools was needed to help reduce the amount of non-revenue generating calls.
+
+----
+
+Text: 
+
+(hr: t2)
+
+## A Long and Winding Road
+Since new tools are being added all the time (and with them: new teams, departments and management), the page has seen more than it's fair share of redesigns. As lead designer for this product, I've tried my best to reign in demands from each stakeholder over the years. Check out how it's evolved.
+
+(columns...)
+
+(image: coasupport-02.png link: self class: lightbox)
+
+++++
+
+(image: coasupport-03.png link: self class: lightbox)
+
+++++
+
+(image: coasupport-04.png link: self class: lightbox)
+
+(...columns)
+
+(columns...)
+
+(image: coasupport-05.png link: self class: lightbox)
+
+++++
+
+(image: coasupport-06.png link: self class: lightbox)
+
+++++
+
+(image: coasupport-08.png link: self class: lightbox)
+
+(...columns)
+
+---
+
+## The Current Iteration 
+Here's the current design in all of it's glory.
+(image: coasupport-09.png link: self class: lightbox)
+
+(hr: t2)
+
+## The Nitty Gritty
+
+(image: cs-01.png class: floated)
+### Self-Help Tools
+Immediately, the user is presented with an ever-increasing list of self-help services. The display may be slightly overwhelming, but it was designed to eliminate any ambiguity.
+
+---
+
+(image: cs-02.png class: floated)
+### Quick Tips
+These quick tips are the most common FAQs customers have. The full FAQ section is just a click away and offers an enormous amount of easily searchable infromation.
+
+---
+
+(image: cs-03.png class: floated)
+### Support Request
+If our Self-Help tools don't solve the customer's problem, they can request support with this form. ts questions help clarify the problem and direct it to the right support team.
+
+---
+
+(image: cs-04.png class: floated)
+### Contact Us
+By default, we display only the contact information of the country the customer is viewing the page from. If necessary, they can view the full list too. It's a huge list.
+
+---
+
+(image: cs-05.png class: floated)
+### User Profiles
+A prominent call to action to sign in is displayed, as many of these self-help services can be expedited when a customer accesses their user profile.
+
+----
+
+Goals: 
+
+The CheapOair Customer Support page was pretty much in a state of constant flux. Long-neglected due to the company's emphasis on the role of its live call centers, I helped push to automate customer service and provide self-service tools to free up agents to sell more flights.
+
+As a secondary goal, I wanted to push users to create accounts to not only better serve them, but to help create a lasting relationship.
+
+----
+
+Start: I began by working with a business analyst to analyse customer complaints and feedback received though Qualaroo. I also spoke to many call center agents to hear what would save them the most time and benefit them most. This helped prioritize the information architecture of the redesign and allowed me to focus on balancing what matters most to our users and our support staff.
+
+----
+
+Results: The introduction of automated self-help tools has considerably reduced non-revenue generating calls. Qualaroo feedback has improved as well, with many of the most common complaints have been drastically reduced. Future plans for the page would introduce more complex self-service tools, such as changing or cancelling an existing booking, adding a customer support forum, and integrating a support ticketing system.
+
+----
+
+Learned: Business needs and customer needs are not always in sync. In this case, some of the top customer complaints could not be addressed in an efficient manner due time and development constraints for the project. As a product designer, it's essential to fight for the user, but also be pragmatic about what can be achieved.

@@ -1,0 +1,97 @@
+Headlinesettings: 
+
+----
+
+Title: Persuasive Design and its Icky Gray Areas
+
+----
+
+Titlealternative: 
+
+----
+
+Toggletitle: 0
+
+----
+
+Togglesubnav: 0
+
+----
+
+Date: 2015-08-26
+
+----
+
+Tags: Design Thoughts
+
+----
+
+Mask: light
+
+----
+
+Headlineslider: 
+
+----
+
+Covermedia: cimage
+
+----
+
+Slidersize: fullwidth
+
+----
+
+Covervideo: 
+
+----
+
+Coverimage: cover-icky.jpg
+
+----
+
+Sliderimages: 
+
+----
+
+Headlinecontent: 
+
+----
+
+Intro: As Spider-man’s Uncle Ben once said: “With great power comes great responsibility.”
+
+----
+
+Text: 
+
+For the most part, product designers intend to enhance their users’ experience and guide them through software toward satisfaction. Steer users down a happy path toward their goals, get them back on track when they’re lost, create a happy customer. You get the idea.
+
+To accomplish this, designers have many persuasive tools that influence their users’ decisions. A well-placed button can direct a user toward a new feature. Great typography can convince a user to trust a company. A touch of color can get a user to buy a product. Product designers wield truly tremendous power.
+
+(image: icky1.gif caption: Without a designer’s guidance, people don’t always use products as expected.)
+
+But, as Spider-man’s Uncle Ben once said: “With great power comes great responsibility.” Just how far can a designer go to influence behavior? More specifically, is there an ethical responsibility for designers to not persuade users into purchasing things they might otherwise not need?
+
+## Persuading users into gray areas
+
+A few days back, I saw an interesting experiment by Lonely Planet. Using a little bit of design wizardry, they were able to increase their app’s revenue by over 30%. That’s a pretty big jump. How’d they do this? By putting in an intentionally shitty purchase that persuades the user that the more expensive option is a better deal.
+
+(image: icky2.gif caption: The two variations Lonely Planet used for the experiment. Notice the pricing.)
+
+Since money is involved in this decision, this raises an ethical question. It’s a digital product, so the only indication of the options’ value is what is listed on this page. Since there is nothing else to compare the options to, adding a decoy option has tremendous influence on the user’s thought process. And in this case, since the decoy is such an intentionally terrible deal, it convinces many users that the more expensive option is an exceptional deal.
+
+As stated before, this led to much higher revenue from the app. But since the selection was designed to be so extremely persuasive, was this the best way to accomplish this? Probably not, no. It can easily be argued that a design such as this has betrayed a user’s trust and will inevitably hurt the brand. Then again, what users don’t know won’t hurt them. Right?
+
+## Balancing business goals with user experience
+
+While this example obviously exists within an ethical gray area, the motivation for it definitely is understandable. At the end of the day, all businesses need to make money. Increasing revenue with a simple design change is a huge and immediate win.
+
+However, business goals and conversion rate optimization must always remain in balance with the overall user experience. In this case, using such an obvious decoy to push users into purchasing more will almost certainly have a negative effect on the overall user experience and brand. The gain in revenue may not be enough to overcome this loss of trust.
+
+> There will always be a middle ground between conversion rate optimization and user experience.
+
+Keeping a little empathy for the user in mind, this tactic can be modified to not be so deceptive. By simply lowering the decoy price from $4.49 to $3.99, its no longer a blatant rip off. Further, this pricing reinforces the city value at $1.99 per city, making $4.99 per city a very attractive offer. Most importantly, the user is guided through the decision and no trust is lost.
+
+## The bottom line
+
+All businesses need to make money, but being shady about it isn’t going to help in the long run. As a product designer, it’s essential to always balance business goals with the interests of the users.

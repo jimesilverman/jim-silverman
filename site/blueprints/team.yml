@@ -1,0 +1,49 @@
+title: Team Member
+
+pages: false
+
+icon: user
+
+preview: parent
+
+fields:
+  logo:
+    label: Logo
+    type: image
+    required: true
+
+  date:
+    icon: calendar
+    label: Date Start
+    type: date
+    format: LL
+    placeholder: Select a date…
+    default: today
+    required: true
+    width: 1/2
+
+  dateEnd:
+    icon: calendar
+    label: Date End
+    type: date
+    format: LL
+    placeholder: Select a date…
+    default: today
+    required: true
+    width: 1/2
+
+  title:
+    label: Name
+    type: title
+    required: true
+
+  position:
+    label: Position
+    type: text
+    required: true
+
+  about:
+    label: About
+    type: textarea
+    required: true
+  

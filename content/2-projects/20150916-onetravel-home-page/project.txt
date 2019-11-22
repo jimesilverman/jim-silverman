@@ -1,0 +1,126 @@
+Headlinesettings: 
+
+----
+
+Title: OneTravel Home Page
+
+----
+
+Titlealternative: 
+
+----
+
+Toggletitle: 0
+
+----
+
+Togglesubnav: 0
+
+----
+
+Date: 2015-09-16
+
+----
+
+Tags: Case Studies
+
+----
+
+Mask: dark
+
+----
+
+Headlineslider: 
+
+----
+
+Covermedia: cimage
+
+----
+
+Slidersize: fullwidth
+
+----
+
+Covervideo: 
+
+----
+
+Coverimage: othome-splash.png
+
+----
+
+Sliderimages: 
+
+----
+
+Headlinecontent: 
+
+----
+
+Intro: OneTravel is the sister site of CheapOair, but it's not as well-known and doesn't get as much traffic. It is, however, perfect for testing out new ideas.
+
+----
+
+Text: 
+
+## A Streamlined Search
+Heavily inspired by the minimalism of Kayak, a single-line search widget approach was used to streamline the input process. Since the site's main focus is flights, the widget was reduced to simply flight search, allowing tabs to represent types of flights.
+(image: othome-compact.png)
+
+This design incorporated a lot of prior research. For example, thee arrow connecting the promotional code to the call-to-action had boosted conversion in previous A/B testing. Leveraging analytics data, rarely used inputs were consilidated into a hidden "advanced options" container.
+
+## Iterating on the Concept
+From there, the design was refined based on internal feedback – other verticals were added back in, recent searches were more visually prominent, and newsletter sign up was returned to prime real estate.
+(image: othome-concept1.png link: self class: lightbox)
+
+Though flight search remained the focus of the search, other verticals were added back in. Using a standardized design, the interface gave a cleaner and more consistent feel.
+(image: othome-animated-1.gif)
+
+(hr: t2)
+
+## The Nitty Gritty
+
+(image: othome-01.png class: floated)
+### Bold Call-to-Action
+The search widget's call-to-action could not scream louder. With prominent color, logical placement, emphatic sizing and guiding arrow – it's perfectly clear what the user needs to do here.
+
+---
+
+(image: othome-02.png class: floated)
+### Tabbed Widget
+The widget has a clear flight focus, but enables users to tab through the other verticals with a simple, standardized design for each product.
+
+---
+
+(image: othome-03.png class: floated)
+### Relevant Deals
+Using geolocation, the home page's random smattering of flight deals is now refined to be relevant to the visitor's current location.
+
+---
+
+(image: othome-04.png class: floated)
+### Mobile App Promotion
+OneTravel's mobile app is very good. Here it's given ridiculously prominent real estate so that visitors can see it in all its glory.
+
+(hr: t2)
+
+## Teamwork Makes the Dream Work
+At this point, the project was handed off to my team in India, where we worked together to tweak and iterate on the design until it became something worth challenging the existing design. This design was then A/B tested versus the existing design.
+(image: othome-interim.jpg link: self class: lightbox)
+
+----
+
+Goals: This conceptual redesign aimed to dramatically rethink the online travel agency's search experience and strongly differentiate it from CheapOair. Along with this, the redesign needed to increase the number of searches performed for all devices, drive adoption of our mobile app, and increase overall conversion.
+
+----
+
+Start: Over the years, countless A/B tests had been performed on CheapOair's homepage to optimize conversion, however OneTravel lagged behind. Using the learnings from these tests, combined with competitive analysis and analytics data, helped guide the direction of this redesign.
+
+----
+
+Results: A/B test results showed a dramatic improvement in number of searches and substantial gains in conversion across all devices. Users stated that the modern and clean look conveyed a sense of trustworthiness. After a quick run, this design was made the default.
+
+----
+
+Learned: Before starting a redesign project, it's crucial to take stock of existing research to push things forward. By leveraging the company's prior knowledge, I was able to design a much more effective interface that converts.

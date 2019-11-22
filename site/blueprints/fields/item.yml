@@ -1,0 +1,25 @@
+type: group
+fields:
+  date:
+    icon: calendar
+    label: Date
+    type: date
+    format: LL
+    placeholder: Select a date…
+    default: today
+    required: true
+    width: 1/2
+
+  tags:
+    label: Tags
+    type: tags
+    width: 1/2
+
+  mask:
+    label: Mask Overlay
+    type: radio
+    options:
+      light: Light
+      dark: Dark
+    default: light
+    help: Choose appropriate color to make the texts on item listings pages more readeable. Use Dark mask on dark images and Light mask on bright images.

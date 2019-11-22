@@ -1,0 +1,131 @@
+Headlinesettings: 
+
+----
+
+Title: CheapOair Flight Listing
+
+----
+
+Titlealternative: 
+
+----
+
+Toggletitle: 0
+
+----
+
+Togglesubnav: 0
+
+----
+
+Date: 2014-02-21
+
+----
+
+Tags: Case Studies
+
+----
+
+Mask: dark
+
+----
+
+Headlineslider: 
+
+----
+
+Covermedia: cimage
+
+----
+
+Slidersize: fullwidth
+
+----
+
+Covervideo: 
+
+----
+
+Coverimage: coalisting-splash.png
+
+----
+
+Sliderimages: 
+
+----
+
+Headlinecontent: 
+
+----
+
+Intro: When CheapOair redesigned its homepage, it was a massive success. However it also created a disjointed experience as the rest of the site was still woefully outdated.
+
+----
+
+Text: 
+
+(hr: t2)
+
+## Old and Rusty
+The current flight listing page is in a dismal state and is a bottleneck in the conversion funnel. Woefully outdated, it's become a victim of "dollar store design" over the many years it's spent on the site. As features have been added, it simply has not been able to accommodate them. A full redesign is necessary.
+(image: coalisting-current.png link: self class: lightbox)
+
+## Starting from Scratch
+The initial concept was completely unlike the existing page. It leverages existing data and test results such as simpler price display, orange CTAs, and compact fare display, while building forward. It also incorporates many features currently on the development roadmap, such as the Easy Pick matrix and fixed footer.
+(image: coalisting-v2.png link: self class: lightbox)
+
+## Iteration. Iteration. Iteration.
+From there, the design was refined to give a wider, more prominent display to the fares. Special messaging, such as flexible dates and urgency were given a standardized and clean display.
+(image: coalisting-v3.png link: self class: lightbox)
+
+(hr: t2)
+
+## The Nitty Gritty
+
+(image: coalisting-01.png class: floated)
+### Simplified Filters
+Most searches yield an overwhelming amount of results. Leveraging existing research on how users refine their searches, I designed simplified filters to ease the process.
+
+---
+
+(image: coalisting-02.png class: floated)
+### Easy Pick Matrix
+The existing page's Fare Matrix is an overwhleming spreadsheet of information. Here, we intelligently choose a few flights that would be most commonly prefered by customers.
+
+---
+
+(image: coalisting-03.png class: floated)
+### Cleaner Fare Display
+Each fare contract has been made much easier to read, given ample space, and has consistency in messaging to help customers scan through information and compare flights
+
+---
+
+(image: coalisting-04.png class: floated)
+### Fixed Footer
+ Data shows that customers search 3-4 times before selecting their flight. The fixed footer allows the user to quickly jump back to previous searches or start a new search.
+
+(hr: t2)
+
+## The Final Concept
+The final design solidifies prior ideas of simplification and standardization, with a few additions. It highlights the search refinement options to speed the process. The Fare Alert signup form has been moved in line with the fares for ease of use. And lastly, tabbed recent searches are added to the fixed footer with modify search available as a toggle.
+(image: coalisting-full.png link: self class: lightbox)
+
+----
+
+Goals: CheapOair's homepage redesign brought attention to the site and was a huge boost to conversion, but the rest of the flight purchasing funnel felt antiquated and disjointed. I led the redesign effort to bring the Listing Page into the modern era. Along with a visual refresh to maintain consistency, I aimed to improve conversion rate, speed customer choice, and create a standardized modular display for search results.
+
+----
+
+Start: 
+
+Leveraging user tests in concert with an extensive library of prior A/B test results helped guide the direction of this redesign. The combined data helped identify pain points for many users which ended in lost conversions. In addition, an analysis of the more modern designs utilized by our competitors helped keep the page in line with user expectations.
+
+Through user interviews, I discovered that the transition from the visually new home page to the listing page was jarring for most users. Further, there was room for improvement in explaining and highlighting the unique features of our flight search, such as Flexible Date and Nearby Airport fares, which gives the site a competitive advantage.
+
+----
+
+Results: After the first phase was rolled out, there was an over 10% increase in conversion over the previous design. Since it was designed with responsive considerations in mind, larger gains were seen among tablet and mobile users. Due to its success, a planned second phase was due to include the simplified fare design and other enhancements.
+
+----
+
+Learned: A first impression is only as good as its entire first experience. Although the CheapOair homepage was modern and inviting, many conversions were lost due to a stark contrast in polish and overall visual design when continuing throughout the site. Maintaining consistency in the end-to-end experience is essential to gaining user trust and loyalty.

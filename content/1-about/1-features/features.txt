@@ -1,0 +1,236 @@
+Title: Features
+
+----
+
+Titlealternative: Theme Features
+
+----
+
+Toggletitle: 0
+
+----
+
+Intro: Features you have not seen before in a Kirby theme. Here is a short summary of them.
+
+----
+
+Coverimage: carl-heyerdahl-181868.jpg
+
+----
+
+Text:
+
+<br />
+<br />
+
+(columns...)
+
+<i class="fa fa-flash service-icon"></i>
+#### Page Transitions
+
+SPA-like transitions that make the whole experience of using the theme slick and smooth.
+
+++++
+
+
+<i class="fa fa-columns service-icon"></i>
+#### Responsive Layout
+Kollapse supports Desktop and Mobile out of the box, so you have nothing to worry about.
+
+++++
+
+<i class="fa fa-object-group service-icon"></i>
+#### 28 Components
+Things like Gallery, Carousel, Accordion, Forms, CTA Buttons and more. (link: /about/docs#theme-elements text: View all) 😱
+
+++++
+
+<i class="fa fa-gears service-icon"></i>
+#### User-Friendly Panel
+The Panel Settings are organized in a logical way, which makes it really fun to use.
+
+(...columns)
+
+---
+
+(columns...)
+
+<i class="fa fa-text-height service-icon"></i>
+#### Easy to Customize
+
+Via Panel or with code - within minutes you can have entirely different look and feel.
+
+++++
+
+<i class="fa fa-address-card-o service-icon"></i>
+#### Universal Template
+
+Although all of the pages and items have a similar template, they can be styled in a context.
+
+++++
+
+<i class="fa fa-files-o service-icon"></i>
+#### Projects Showcase
+
+Kollapse goes with predefined Projects section that is perfect for sharing your awesome work.
+
+++++
+
+<i class="fa fa-file-text-o service-icon"></i>
+#### Blog Section
+
+If you want to write - Kollapse is here for you. With its Blog section you're ready to go.
+
+(...columns)
+
+---
+
+(columns...)
+
+<i class="fa fa-image service-icon"></i>
+#### Image Headers
+
+Each page or entry supports a header image that can be selected by a dropdown.
+
+++++
+
+<i class="fa fa-film service-icon"></i>
+#### Video Headers
+
+If you prefer, you can display a short video instead of an image in the header.
+
+++++
+
+<i class="fa fa-exchange service-icon"></i>
+#### Slider Headers
+
+If you have multiple images that need to be displayed - go for a Cover Slider.
+
+++++
+
+<i class="fa fa-header service-icon"></i>
+#### Page Headings
+
+With a support of Alternative titles your single view can have useful introduction now.
+
+(...columns)
+
+---
+
+(columns...)
+
+<i class="fa fa-font service-icon"></i>
+#### Typography
+
+This one is cool - Kollapse supports all of the 732 currently available Google Fonts. 🎉
+
+++++
+
+<i class="fa fa-eyedropper service-icon"></i>
+#### Colors
+
+Select your two main colors via built-in color picker from the Panel with just two clicks!
+
+
+++++
+
+<i class="fa fa-th-list service-icon"></i>
+#### Grid
+
+Choose how to list your Projects: one, two, three or four items per row - again with just a click.
+
+++++
+
+<i class="fa fa-sort-numeric-asc service-icon"></i>
+#### Pagination
+
+Select how many Project or Blog articles you want to have on a single page, 1-20? Done.
+
+<!-- no matter if it's a question related to installation and setup or minor customization of the theme to match your needs. -->
+
+(...columns)
+
+---
+
+(columns...)
+
+<i class="fa fa-navicon service-icon"></i>
+#### Navigation Styles
+
+Kollapse has two implementation options for the main menu - Regular and Off Canvas.
+
+++++
+
+<i class="fa fa-twitter service-icon"></i>
+#### Social Links
+
+Just paste the links to your social media profiles and they will appear as icons in the Footer.
+
+++++
+
+<i class="fa fa-envelope-o service-icon"></i>
+#### Contact Form
+
+There are predefined CSS styles for a form, you will just need a back-end implementation.
+
+++++
+
+<i class="fa fa-circle-o service-icon"></i>
+#### Logo Replacement
+
+Notes taken from my previous themes - now you can easily set your logo from the Panel.
+
+(...columns)
+
+---
+
+
+(columns...)
+<i class="fa fa-book service-icon fa-3x t02"></i>
+### Documentation
+
+At the (link: /docs text: Docs) page I've prepared a detailed guide on how to use all of the theme features. I will continue improving it based on your feedback. ✌️
+
+++++
+
+<i class="fa fa-support service-icon fa-3x t02"></i>
+### Support
+
+Although I am a one-man-army creator, I strive to help you quickly via (link: mailto: joro@yordanoff.net text: email: joro@yordanoff.net). If you need advanced support, (link: /about/docs#contacts-amp-support text: see this). 🤖
+(...columns)
+
+---
+
+(hr: t3)
+
+<div class="ta-center">
+
+<h1>Build anything in just a few hours.</h1>
+
+<br />
+
+(link: https://gum.co/kollapse text: Buy Now <span data-txt="$35">$35</span> popup: yes class: btn btn-3x)
+
+</div>
+
+(hr: t3)
+
+----
+
+Covermedia: cimage
+
+----
+
+Slidersize: fullwidth
+
+----
+
+Covervideo:
+
+----
+
+Sliderimages:
+
+----
+
+Togglesubnav: 0

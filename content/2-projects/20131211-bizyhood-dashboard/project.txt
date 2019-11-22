@@ -1,0 +1,148 @@
+Headlinesettings: 
+
+----
+
+Title: Bizyhood Dashboard
+
+----
+
+Titlealternative: 
+
+----
+
+Toggletitle: 0
+
+----
+
+Togglesubnav: 0
+
+----
+
+Date: 2013-12-11
+
+----
+
+Tags: Case Studies
+
+----
+
+Mask: dark
+
+----
+
+Headlineslider: 
+
+----
+
+Covermedia: cimage
+
+----
+
+Slidersize: fullwidth
+
+----
+
+Covervideo: 
+
+----
+
+Coverimage: bizydash-splash.png
+
+----
+
+Sliderimages: 
+
+----
+
+Headlinecontent: 
+
+----
+
+Intro: Bizyhood is an engagement platform for hyper-local businesses. It's Business Dashboard was sorely in need of a redesign, leaving many first-time users confused and abandoned.
+
+----
+
+Text: 
+
+(hr: t2)
+
+## The Root of the Problem
+The old Dashboard Overview was something of a placeholder – a purely text page introducing the dashboard, but giving no direction. Without that, the bounce rate was incredibly high. SessionCam showed users almost immediately closing the window.
+
+This obviously was not acceptable. A new Dashboard Overview was needed to guide users through the application and show them what to do.
+
+(hr: t2)
+
+## The Nitty Gritty
+
+(image: bizydash-01.png class: floated)
+### Universal Navigation
+A collapsible sidebar navigation was introduced. It's organized by functionality so that everything is right where it's expected to be. It's also completely responsive for those on smaller devices.
+
+---
+
+(image: bizydash-02.png class: floated)
+### Calls to Action
+Literally everything on the page is a call to action. If there's nothing for the user to do when they're signed in, the design takes advantage of this and gives them something to do.
+
+---
+
+(image: bizydash-03.png class: floated)
+### Guided Tour
+Upon signing in for the first time, the user is presented with a guided tour overlay. It guides the user through a full setup of their profile and prompts them to get their onboarded. It's dismissable, for those who find such things annoying.
+
+---
+
+(image: bizydash-04.png class: floated)
+### Claim a Business
+One of our most touted features is the ability to claim multiple businesses. At any time, the user can easily switch between their owned businesses or claim ownership of another.
+
+(hr: t2)
+
+## The finished product
+The final Dashboard Overview incorporates pieces from every corner of the dashboard and gives the user a great overview of what's happening with their page and what needs to be done.
+(image: bizydash-full.png link: self class: lightbox)
+
+## It's responsive too
+Since a decent amount of our users are coming from mobile, it's very important that all features of the dashboard are accessible and usable on mobile devices.
+
+(columns...)
+
+(image: bizydash-mobile01.png link: self class: lightbox) 
+#### Dashboard
+
+++++
+
+(image: bizydash-mobile02.png link: self class: lightbox)
+#### Image Gallery
+
+++++
+
+(image: bizydash-mobile03.png link: self class: lightbox)
+#### Add Events
+
+(...columns)
+
+----
+
+Goals: 
+
+Bizyhood's Business Dashboard is where business owners spend their time managing their business details, events, and promotions and interacting with their customers. However, upon signing up most new users bounced from the site entirely.
+
+A properly designed dashboard to onboard new users should properly introduce users to the site and build a lasting relationship.
+
+----
+
+Start: 
+
+At Bizyhood, I was fortunate enough to have direct communication with many users which proved to be an invaluable resource. Working with the users, I discovered that although the sign up flow guided the user well, they became confused upon hitting the abrupt end and a blank dashboard.
+
+Further, speaking to users and checking analytics showed that a responsive design was an absolute necessity. Most business owners wanted to check their interactions while on the go. Many didn't even own a desktop.
+
+----
+
+Results: After the redesign dashboard launched, the bounce rate for logged in business owners decreased substantially. Many users had a very positive reaction to the new guided tour and gained a better understanding of the app. The revised responsive design resulted in a huge increase in engagement. In fact, one of the mobile users who tested the new design thought it was a native app. I'm pretty proud of that.
+
+----
+
+Learned: Empty states are a vital piece of a user experience. Rather than presenting the user with a dead end, it's essential to show the features of the site, guide the user through the workflow, and seize the opportunity for engagement.

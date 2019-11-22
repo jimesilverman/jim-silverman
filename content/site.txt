@@ -1,0 +1,142 @@
+Title: Jim Silverman
+
+----
+
+Author: Jim SIlverman
+
+----
+
+Description: Digital Product Designer from New Jersey
+
+----
+
+Copyright: © (date: Year) (link: http://jim-silverman.com text: Jim Silverman), but steal if you want.
+
+----
+
+Footer: 
+
+Interested in working together?
+Don't hesitate to (email:jim.e.silverman@gmail.com text: get in touch class: highlight)
+
+----
+
+Navigationtype: navstandard
+
+----
+
+Socialfacebook: 
+
+----
+
+Socialtwitter: http://twitter.com/jimesilverman
+
+----
+
+Sociallinkedin: https://www.linkedin.com/in/jimsilverman/
+
+----
+
+Socialinstagram: 
+
+----
+
+Socialdribbble: http://dribbble.com/jimesilverman
+
+----
+
+Socialbehance: 
+
+----
+
+Socialgithub: 
+
+----
+
+Socialmedium: https://medium.com/@jimesilverman/
+
+----
+
+Socialyoutube: 
+
+----
+
+Socialvimeo: 
+
+----
+
+Socialsnapchat: 
+
+----
+
+Socialsoundcloud: 
+
+----
+
+Socialspotify: 
+
+----
+
+Socialemail: jim.e.silverman@gmail.com
+
+----
+
+Grid: 2
+
+----
+
+Fontheadings: Karla
+
+----
+
+Fontbody: Source+Serif+Pro
+
+----
+
+Socialphone: 
+
+----
+
+Socialaddress: 
+
+----
+
+Logo: 
+
+----
+
+Metaimage: site.png
+
+----
+
+Paginationpages: 6
+
+----
+
+Paginationprojects: 6
+
+----
+
+Paginationblog: 6
+
+----
+
+Googleanalytics: 
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-60442151-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-60442151-1');
+</script>
+
+----
+
+Ca1: #b620e0
+
+----
+
+Ca2: #fdac32

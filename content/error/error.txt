@@ -1,0 +1,25 @@
+Title: Error
+
+----
+
+Intro: The page has not been found.
+
+----
+
+Text: 
+
+Looks like you clicked a broken link or typed something wrong.
+
+Keep calm and (link: / text: go back) home.
+
+----
+
+Titlealternative: 
+
+----
+
+Toggletitle: 0
+
+----
+
+Togglesubnav: 0

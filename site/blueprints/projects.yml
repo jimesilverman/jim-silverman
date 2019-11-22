@@ -1,0 +1,23 @@
+title: Projects
+
+pages:
+  template: project
+  sort: manually
+  num: date
+
+options:
+  template: false
+  status: true
+  url: true
+
+icon: files-o
+
+fields:
+  settingsgroup:
+    extends: settings
+
+  slidergroup:
+    extends: slider
+
+  contentgroup:
+    extends: content

@@ -1,0 +1,38 @@
+title: Project
+
+files:
+  sortable: true
+
+options:
+  status: true
+
+pages: false
+
+fields:
+  settingsgroup:
+    extends: settings
+
+  itemrgroup:
+    extends: item
+
+  slidergroup:
+    extends: slider
+
+  goals:
+    label: Project Goals
+    type:  textarea
+
+  start:
+    label: Getting Started
+    type:  textarea
+
+  contentgroup:
+    extends: content
+
+  results:
+    label: Results
+    type:  textarea
+
+  learned:
+    label: What I Learned
+    type:  textarea

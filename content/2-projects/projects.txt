@@ -1,0 +1,41 @@
+Title: Projects
+
+----
+
+Intro: Over the years I’ve enjoyed a wide variety of experience, ranging from large global brands, to small startups and local businesses, to local politicians and non-profit organizations.
+
+----
+
+Text: 
+
+----
+
+Titlealternative: Selected Case Studies
+
+----
+
+Toggletitle: 0
+
+----
+
+Coverimage: 
+
+----
+
+Togglesubnav: 0
+
+----
+
+Covermedia: cimage
+
+----
+
+Slidersize: fullwidth
+
+----
+
+Covervideo: 
+
+----
+
+Sliderimages: 

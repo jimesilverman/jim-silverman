@@ -1,0 +1,128 @@
+Headlinesettings: 
+
+----
+
+Title: MeetMidway
+
+----
+
+Titlealternative: 
+
+----
+
+Toggletitle: 0
+
+----
+
+Togglesubnav: 0
+
+----
+
+Date: 2017-07-14
+
+----
+
+Tags: Case Studies
+
+----
+
+Mask: light
+
+----
+
+Headlineslider: 
+
+----
+
+Covermedia: cimage
+
+----
+
+Slidersize: fullwidth
+
+----
+
+Covervideo: 
+
+----
+
+Coverimage: midway-splash.png
+
+----
+
+Sliderimages: 
+
+----
+
+Goals: As a major pain point in my life, I wanted to create a quick and simple app that would split the distance between two locations and suggest great places to hangout around that area. After asking around a bit and getting a lot of interest, I decided to open it up a bit into a full fledged web app.
+
+----
+
+Start: 
+
+First, I made sure that nothing like this existed. There are similar tools out there, but none of them had the simplicity and speed that I considered essential to the project.
+
+Next, I started iterating on the interface. After (link: https://dribbble.com/shots/678186-Those-Icons-I-Made-Part-2 text: a few iterations) on design, I realized that I should probably figure out how to make this all work before getting too far down that road. Wielding jQuery and Google Maps API, which I learned while making this, I cobbled together a working prototype and refined the UI from there.
+
+----
+
+Headlinecontent: 
+
+----
+
+Intro: When I was dating my wife, we lived an hour apart and would constantly look for places to meet up about halfway between us. So I made a web app to make our lives easier.
+
+----
+
+Text: 
+
+(hr: t2)
+
+## What's MeetMidway?
+I built MeetMidway from start to finish. It's a fun little app that helps you find great places to hangout that are midway between you and your friend. It's a web app, so you can use it on any device you've got and it will look and feel great.
+
+Starting with the branding, the app was designed to feel light and fun. Following an iterative approach, the UI includes a bunch of flourishes and details that help improve the ease of use and reliability of the app.
+
+ You can (link: https://meetmidway.co text: check it out live class: highlight)
+
+(image: midway-logo.png)
+
+---
+
+## The Nitty Gritty
+
+(image: midway-01.png class: floated)
+### A Quick Intro
+Rather than inundating users with a huge marketing page, a short modal introduction is used to introduce new users to the app and quickly sends them on their way. It only shows up the first time, as to not annoy returning users.
+
+---
+
+(image: midway-02.png class: floated)
+### Foolproof Search
+Based on surveys, a few of the most common searches are available at the click of a button. This not only removes room for user error, but speeds the input process.
+
+---
+
+(image: midway-03.png class: floated)
+### Simple Results
+Results are displayed very simply. The venue's name and address is shown, as well as if it's currently open and if it's well rated. From there, users can click to be sent to Google Maps for more details and directions.
+
+---
+
+(image: midway-04.png class: floated)
+### Marketing Page
+A simple marketing page is available for those users who want a little more information. I went a little overboard with the visuals here, but had fun with it. I even included some SVG animation.
+
+(image: midway-svg.gif class: wide)
+
+----
+
+Results: 
+
+When released, there was a largely favorable initial response and great feedback. Many suggested the addition of mass transit routes for city dwellers or the ability to add more friends for groups.
+
+Overwhelmingly, users wanted a native app. Although the web app was functional and well-received, it wasn't sticky. Porting this to a native mobile app would resolve that issue.
+
+----
+
+Learned: I designed this as a learning experience. As I've been getting rusty in my front-end development skills, I pushed myself to learn a shocking amount about jQuery, Google Maps API, and SVG animation to get this up and running. Starting with a functional prototype and a limited understanding of development, I challenged myself to design within the constraints of what was technically feasible.

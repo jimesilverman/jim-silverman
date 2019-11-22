@@ -1,0 +1,29 @@
+Title: SPS Commerce
+
+----
+
+Position: Product Designer
+
+----
+
+About: At SPS Commerce, I led product design for SaaS collaborative analytics dashboards and internal tooling, while constructing a pattern library to maintain design consistency within a larger platform of applications.
+
+----
+
+Phone: 
+
+----
+
+Email: 
+
+----
+
+Logo: sps.png
+
+----
+
+Date: 2015-11-17
+
+----
+
+Dateend: 2017-10-05

@@ -1,0 +1,48 @@
+type: group
+fields:
+  headlineSlider:
+    label: Cover Media
+    type: headline
+
+  covermedia:
+    label: Cover Media
+    type:  radio
+    options:
+      cimage: Image
+      cvideo: Video
+      slider: Slider
+    default: cimage
+    columns: 3
+    help: Select the type of media you want to appear below the title on the current entry.
+
+  slidersize:
+    label: Wrapper Size
+    type:  radio
+    options:
+      fullwidth: Fullwidth
+      medium: Medium
+      small: Small
+    width: 1/1
+    columns: 3
+  # sep1:
+  #   type: line
+  covervideo:
+    label: Cover Video
+    type:  select
+    options: videos
+    width: 1/1
+  coverimage:
+    label: Cover Image
+    type:  image
+    width: 1/1
+  # sep2:
+  #   type: line
+  sliderimages:
+    label: Slider Images
+    type:  selector
+    mode:  multiple
+    sort:  sort
+    autoselect: none
+    types:
+      - image
+    help: To include an image as a slide, click the "Select" button • You can sort slides manually by the "Edit" button in the "Files" section in the left sidebar.

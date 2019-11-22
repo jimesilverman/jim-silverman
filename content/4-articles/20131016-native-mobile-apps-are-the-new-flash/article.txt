@@ -1,0 +1,87 @@
+Headlinesettings: 
+
+----
+
+Title: Native Mobile Apps are the New Flash
+
+----
+
+Titlealternative: 
+
+----
+
+Toggletitle: 0
+
+----
+
+Togglesubnav: 0
+
+----
+
+Date: 2013-10-16
+
+----
+
+Tags: Design Thoughts
+
+----
+
+Mask: light
+
+----
+
+Headlineslider: 
+
+----
+
+Covermedia: cimage
+
+----
+
+Slidersize: fullwidth
+
+----
+
+Covervideo: 
+
+----
+
+Coverimage: cover-flash.jpg
+
+----
+
+Sliderimages: 
+
+----
+
+Headlinecontent: 
+
+----
+
+Intro: Both Flash and Native apps were great stopgap measures while the web caught up.
+
+----
+
+Text: 
+
+I’m not that old, but I remember a past when Flash was on top. Before HTML5 was the hottest tech buzzword. Before CSS gradients were even a distant dream. Before jQuery was a household name. Before Steve Jobs hung Flash to a cross.
+
+Back then, the web simply wasn’t advanced enough to create the experiences users wanted. Developers turned to Flash to fill in the gaps, while the open web evolved and eventually surpassed Flash’s capabilities. Flash was a great stopgap measure. But it outlived its usefulness and has been reduced to niche status.
+
+Today, we’re seeing the nearly exact same scenario with native apps on mobile devices.
+
+Native mobile apps are a temporary solution. We’re just over 4 years into the Appstore era and this has already become apparent. Open web technologies are catching up to the point that the vast majority of web apps no longer need a native counterpart.
+
+Don’t try to tell me native apps are faster or allude to them having a “better experience.” That simply is no longer true. (link: http://blog.programmableweb.com/2012/12/20/sencha-remakes-facebook-html5-app-using-api/ text: Sencha )proved this last year. For a more detailed look just how far mobile web capabilities have come, see Benjamin De Cock’s excellent “(link: http://notes.deaxon.com/building-ios-web-apps-in-2013/ text: Building iOS Web Apps in 2013.)”
+
+As it stands now, there is little reason most mobile apps to exist. Content-based sites do not need downloadable apps. I’m talking about NYTimes, WSJ, Wikipedia, Buzzfeed, TMZ, etc. These native apps add literally nothing of value to their web-based user experience. Even many more complex apps do not need native functionality. Many RSS readers, GTD apps, eCommerce apps and search apps add little more than a homescreen button.
+
+In many cases, native apps are a considerable step backward from their web counterparts. As Thomas Baekdal points out, mobile apps are stuck in 2004. Much of the functionality that has become standard on the web — automatic updates, social sharing, scrolling — has been completely stripped out and ignored.
+
+Today, there are only two pieces of functionality that necessitate a native app: camera access and push notifications. And the web is quickly working on filling both of these gaps.
+
+Once people begin realize this, native mobile apps will be the same as Flash. Useful for games, but not much else.
+
+---
+
+***Edit:** Many have said that I’ve “missed the point about app stores facilitating monetization and distribution.” Let me be clear: I am not saying the app store business model is going anywhere. Web app stores exist and are growing.*

@@ -1,0 +1,21 @@
+Logo: bizyhood.png
+
+----
+
+Title: Bizyhood
+
+----
+
+Position: Product Design Lead
+
+----
+
+About: I led product design at Bizyhood, a hyper-local engagement startup. I handled all interface design, visual design and front-end development of Bizyhood, while conceptualizing new features to drive the product direction.
+
+----
+
+Date: 2013-12-01
+
+----
+
+Dateend: 2015-07-17

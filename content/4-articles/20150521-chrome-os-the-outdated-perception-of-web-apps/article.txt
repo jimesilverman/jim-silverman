@@ -1,0 +1,95 @@
+Title: Chrome OS & the Outdated Perception of Web Apps
+
+----
+
+Date: 2015-05-21
+
+----
+
+Text: 
+
+Google recently released an updated version of its flagship Chromebook — the Pixel. In terms of hardware design, specs, and build quality, it seems to blow most competitively-priced laptops out of the water. Right up there with Apple’s finest. Early reviews are absolutely raving about it. Yet none of them recommend buying it.
+
+Why? Because of the wholly outdated negative perception of web apps.
+
+Let me explain. For those unfamiliar with Chrome OS, it’s basically Google’s Chrome browser with a few little additions like Google Drive integration, basic photo editor, etc. There are no native apps for this system. Instead, the web is treated as native. There’s even a (link: https://chrome.google.com/webstore text: Chrome Web Store).
+
+The lack of native apps enables a few things. For starters, there’s almost no storage on the device. Google Drive is so tightly integrated into the OS to the point where you may not realize it isn’t local. Your files are automatically synced and available anywhere. You never have to even think about it. It’s awesome. In addition, most (all?) Chromebooks give you a boost to your Drive storage upon purchase — mine came with 100GB, the new Pixel comes with 1TB.
+
+(image: chrome1.png caption: Google Drive files feel no different than local storage in the native file manager.)
+
+Also, since there are no native apps, the system is completely immune to viruses and malware. If you’re sick of playing IT support for your parents, or if you visit some shady corners of the web, you don’t need to worry on a Chromebook.
+
+Finally, since so little is stored locally, the machine does not slowly degrade into a pile of crap over time. This thing is still running as fast as the day I bought it. Wish I could say the same about my PC or iMac.
+
+But for whatever reason, the press can’t seem to grasp the empowerment of not having native apps and storage. Chromebooks are often condescendingly dismissed as “web browsing” devices not capable of productivity. That Chrome OS is a limited experience.
+
+As a web professional who has used a Chromebook as their primary personal computer for the two years, I can safely say that’s bullshit.
+
+The web has come a long way in the past few years. Sure, when Chrome OS first launched it seemed insane to have a web-only OS. Wifi was slow and unreliable, offline apps were rare, web app functionality was basic. Now, it’s a whole different ballgame. As cloud computing becomes more prevalent, software is moving online. Even Microsoft has made great progress with Office 365.
+
+(image: chrome2.jpg caption: Offline apps in the Chrome Webstore are growing in number, but you probably have a connection anyway.)
+
+Today, the vast majority of all productivity can be done in the browser. Aside from Photoshop, I can’t remember the last time I’ve used a desktop app (though (link: http://edex.adobe.com/projectphotoshopstreaming text: Photoshop is coming soon) to Chrome OS). I don’t believe I’m alone in this — and judging by Chromebook sales, I’m not.
+
+Personally, I’m completely productive with a full-fledged IDE, a browser-based photo editor, various site testing and analytics tools, Google Docs and Drive, collaborative web apps like Slack and Invision (these two are the only ones that don’t function offline but they’re collaborative, so obviously). And for whatever reason, the Spotify’s web app is much more stable than its native Windows counterpart. I’ve never felt limited by Chrome OS; I feel liberated.
+
+Further, it’s bizarre to me that high-end Chromebooks have been dismissed as superfluous. Users want a device that can handle the most cutting-edge corners of the web in stride. Many modern web apps, OpenGL, video conferencing, and high-definition streaming are very demanding on a system.
+
+(image: chrome3.png caption: There’s also a ton of great browser-based games. If you like an ultra-stylized FPS, check out Superhot.)
+
+For contrast, Apple recently announced a (link: http://gizmodo.com/the-new-macbook-isnt-what-you-think-1690390617 text: $1,300 netbook) with a beautiful design and high-end screen, but extremely limited internal specs. Yes, it runs OS X so it can run apps like Photoshop and Sketch, etc. Technically. But unless you’re a masochist, this netbook does not have enough performance power to do much more than browse the web and likely stutter through HD video playback. Now that’s a limited experience.
+
+The web has come a long way, and Chrome OS is only limited by an archaic perception of web apps.
+
+---
+
+***Disclosure:** I wrote this on my Samsung Chromebook, which has quickly become my primary computer.*
+
+----
+
+Coverimage: cover-chrome.jpg
+
+----
+
+Griditem: none
+
+----
+
+Intro: The web has come a long way and Chrome OS is only limited by an archaic perception of web apps.
+
+----
+
+Titlealternative: 
+
+----
+
+Toggletitle: 0
+
+----
+
+Togglesubnav: 0
+
+----
+
+Tags: Design Thoughts
+
+----
+
+Mask: light
+
+----
+
+Covermedia: cimage
+
+----
+
+Slidersize: fullwidth
+
+----
+
+Covervideo: 
+
+----
+
+Sliderimages: 

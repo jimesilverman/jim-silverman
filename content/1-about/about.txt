@@ -1,0 +1,139 @@
+Title: About
+
+----
+
+Text:
+
+I share stuff on (link: http://twitter.com/yordanoff text: Twitter <span class="fa fa-twitter"></span> popup: yes). My travel stories are available on (link: http://instagram.com/yordanoff text: Instagram <span class="fa fa-instagram"></span> popup: yes). Feel free to fork some code on (link: http://github.com/yordanoff text: GitHub <span class="fa fa-github"></span> popup: yes). Also, this is a demo page to show some of the possibilities of the theme.
+
+Get in touch to make something awesome together - (email:joro@yordanoff.net text: joro@yordanoff.net).
+
+---
+
+## Summary
+
+Cut-off jean shorts netscape navigator the matrix dj jazzy jeff pulp fiction new kids on the block, tupac shakur gettin’ jiggy wit it tommy hilfiger videocassette. Renting movies at a store trucks snoop dogg ross and rachel cory matthews hush puppies. Don’t ask don’t tell life is like a box of chocolates jeans shania twain moby internet.
+
+Rachel green crop tops cargo pants spiked hair zack morris america online. Sonic the hedgehog dawg michael jordan meg ryan. Space jam keanu reeves free willy frasier titanic babyface.
+
+---
+
+(columns…)
+
+> The public is more familiar with bad design than good design. It is, in effect, conditioned to prefer bad design, because that is what it lives with. The new becomes threatening, the old reassuring.
+<cite>Paul Rand</cite>
+
+
+(...columns)
+
+---
+
+## Education
+
+#### University of Washington
+2011-2015
+Bachelor of Arts in Early Childhood & Family Studies
+
+#### University of Chicago
+2015-2017
+Interior Design
+
+---
+
+## Expertise
+
+<br />
+
+(columns…)
+
+<i class="fa fa-object-group service-icon"></i>
+
+#### Front-End
+* HTML, CSS
+* JavaScript, ES6
+* React + Redux
+* jQuery
+* Liquify
+
+++++
+
+<i class="fa fa-moon-o service-icon"></i>
+
+#### Process
+* Version Control - GIT & SVN
+* Scrum Methodology
+* Highly Organised
+* Team Player
+
+(…columns)
+
+---
+
+## Clients
+
+
+(columns…)
+
+(link: http://google.com popup: yes text: Sample Name)
+(link: http://google.com popup: yes text: Lipsum Agency)
+(link: http://google.com popup: yes text: Dev Studio)
+(link: http://google.com popup: yes text: Locally Famous)
+
+++++
+
+(link: http://google.com popup: yes text: Branding and Identity)
+(link: http://google.com popup: yes text: Node Testing)
+(link: http://google.com popup: yes text: Development Class)
+(link: http://google.com popup: yes text: Business AB)
+
+++++
+
+(link: http://google.com popup: yes text: Design & Development)
+(link: http://google.com popup: yes text: Create Something)
+(link: http://google.com popup: yes text: Digital Solutions)
+
+(...columns)
+
+---
+
+----
+
+Intro:
+
+This is the demo about page of Kollapse.  You can (link: https://gum.co/kollapse text: get the theme class: accent popup: yes) for just $35.
+
+---
+
+(link: /about/features text: <i class="fa fa-arrow-right"></i> View Features class: btn btn-icon-o) <em style="position: relative; top: -15px;"> or </em> (link: /about/docs text: <i class="fa fa-file-text"></i> Read the Docs class: btn regular)
+
+----
+
+Coverimage: willspirit-sbln-106733.jpg
+
+----
+
+Titlealternative: What is this all about?
+
+----
+
+Toggletitle: 0
+
+----
+
+Togglesubnav: 1
+
+----
+
+Covermedia: cimage
+
+----
+
+Slidersize: fullwidth
+
+----
+
+Covervideo:
+
+----
+
+Sliderimages:

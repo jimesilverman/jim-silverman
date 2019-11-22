@@ -1,0 +1,143 @@
+Title: Analytics Command Center
+
+----
+
+Year: 2016
+
+----
+
+Text: 
+
+(hr: t2)
+
+## The Analytics Monitor
+Upon logging in, the operator is greeted by the Monitor where they can get a pretty good sense of what is going on with the current data load in a glance. For each retailer, it's easy to identify the overall status of the data, as well as how far along in the process the data currently is. The operator can then choose to dive deeper to investigate the status of each individual cycle.
+
+A ton of data is packed into each line, but it's designed to feel low-density, with information placed in the proper context to reduce mental load.
+
+(image: spscc-monitor.png link: self class: lightbox)
+
+## The Nitty Gritty
+
+(image: spscc-01.png class: floated)
+### Tabbed Navigation
+The tabbed navigation not only helps easily navigate through the monitor, but it serves as a heads up display providing a quick count of the data load status.
+
+---
+
+(image: spscc-02.png class: floated)
+### Branching Structure
+The data load process can branch at any cycle. This is visualized with a simple expand and collapse mechanism, giving visual priority to the most recently processed data.
+
+---
+
+(image: spscc-03.png class: floated)
+### Bundled Retailers
+With this simple overview, an operator can see in a single line the status of all retailers in a bundle. Individual retailers are tucked away within the expand and collapse.
+
+(hr: t2)
+
+## Data Collection
+The detailed Data Collection view was built to address the most common pain point of our operators: dealing with junk data. This tool was designed to provide detailed visibility into every file that was transfered. It also allows the operator to perform advanced operations at the file level with ease.
+
+(image: spscc-collection.png link: self class: lightbox)
+
+## The Nitty Gritty
+
+(image: spscc-c01.png class: floated)
+### File Group Actions
+The interface provides quick access to individual file groups within a collection and allows the operator to view, add, or remove individual files in that group.
+
+---
+
+(image: spscc-c02.png class: floated)
+### Individual File Visibility
+Each file has a visible status and detailed information. They also have individual actions and can be quickly downloaded for inspection.
+
+---
+
+(image: spscc-c03.png class: floated)
+### Bulk File Actions
+Sometimes we get sent a lot of junk files. To deal with this, there's a bulk action menu to take care of all selected files at once.
+
+---
+
+(image: spscc-c04.png class: floated)
+### Manual Data Load
+In the event that historical data is sent, the operator must load it manually. Now, it's as simple as checking off the files and hitting a button.
+
+----
+
+Tags: Case Studies
+
+----
+
+Masktype: light
+
+----
+
+Intro: Standardizing point-of-sale data from thousands of retailers, suppliers and various other entities to load into multiple analytics products is even more complex than it sounds.
+
+----
+
+Mask: dark
+
+----
+
+Covermedia: cimage
+
+----
+
+Slidersize: fullwidth
+
+----
+
+Covervideo: 
+
+----
+
+Coverimage: spscc-splash.png
+
+----
+
+Sliderimages: 
+
+----
+
+Date: 2017-10-13
+
+----
+
+Titlealternative: 
+
+----
+
+Toggletitle: 0
+
+----
+
+Togglesubnav: 0
+
+----
+
+Results: 
+
+This MVP release of the Command Center dramatically reduced operator response time to service calls. It not only provided quick visibility into the system, but also allowed operators to provide many troubleshooting actions in a single application, rather than having to mess around with manual controls and database queries.
+
+It was so simple and effective, SPS began to offer a read-only Monitor application as a customer product to provide transparency and further reduce service calls.
+
+----
+
+Learned: In a complex project, it's invaluable to begin with a complete understanding of the business logic to build an effective workflow tool. Sitting down and interviewing users and developoers alike allowed me to effectively lay the proper foundation for the experience and satisfy user needs.
+
+----
+
+Goals: At SPS Commerce, our internal operators improved visibility into automated processes which extracts, transforms and loads customer data into our products. The tool needed to provide a high-level view which quickly gives a senseof the overall status of the load, but also provide in-depth detail and powerful troubleshooting tools to more efficiently serve our customers.
+
+----
+
+Start: 
+
+Before beginning design work, I had a lot to learn in order to accurately represent the processes in the interface. This involved a lot of research and chats with engineers. What I discovered was, although there are countless edge cases to cover the custom processes for certain retailers' data, it could be represented in a single standardized view.
+
+Then, I sat down with many of our operations team to learn their current workflow, identify their most common pain points, and develop product requirements. Soon I put pen to paper, rapidly prototyping concepts and getting quick feedback from the team to validate these interface ideas.

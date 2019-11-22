@@ -1,0 +1,31 @@
+Title: About Me
+
+----
+
+Intro: 
+
+Hi. I’m Jim Silverman, product designer from New Jersey. I constantly challenge myself to learn new skills and technologies to create straightforward, usable, and enjoyable user experiences from concept to implementation. 
+
+I practice the (link: https://www.interaction-design.org/literature/article/a-simple-introduction-to-lean-ux text: Lean UX) methodology, meaning I like to get feedback as early an often as possible while iterating forward, never getting too bogged down with UX deliverables along the way.  I'm most comfortable in an agile environment with open and honest communication to help facilitate quick decision making in a collaborative setting.
+
+Over the years I’ve enjoyed a wide variety of experience, ranging from large global brands and Software-as-a-Service products, to small startups and local businesses, to local politicians and non-profit organizations. Below is a brief overview of my work experience:
+
+----
+
+Text: 
+
+(columns...)
+
+### Core Competencies
+- Wireframing and Prototyping
+- Visual Design & Asset Creation
+- User & A/B Testing and Analysis
+- Information Architecture
+++++
+
+### Technical Skills
+- HTML5, CSS3, Responsive Design
+- JavaScript, jQuery, Sass
+- Git, SVN, Not breaking things when I merge
+
+(...columns)
