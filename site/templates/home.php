@@ -7,7 +7,7 @@
         <h1 id="hi-im-jim-silverman">Hi, I'm Jim Silverman.<br/>
             I make <span class="chaos">chaotic</span> interfaces simple.</h1>
         <hr class="t4">
-        <p><a href="contact" class="btn">Get in touch</a> <em style="position: relative; top: -19px;"> or </em> <a href="projects" class="btn btn-icon-o al"><i class="fa fa-arrow-right"></i> Check out my work</a></p>    
+        <p><a href="contact" class="btn">Get in touch</a> <em style="position: relative; top: -19px;"> or </em> <a href="projects" class="btn btn-icon-o al">Check out my work</a></p>    
     </div>
 </div>
 

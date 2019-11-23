@@ -6,7 +6,7 @@ background.initializr = function() {
     //option
     $this.id = "shapes";
     $this.style = {
-        bubbles_color: "rgba(255,255,255,.1)",
+        bubbles_color: "hsl(210,100%,50%)",
         stroke_width: 0,
         stroke_color: "#fff"
     };

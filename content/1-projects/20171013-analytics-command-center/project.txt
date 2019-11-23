@@ -68,7 +68,7 @@ In the event that historical data is sent, the operator must load it manually. N
 
 ----
 
-Tags: Case Studies
+Tags: Case Studies,SPS Commerce
 
 ----
 
